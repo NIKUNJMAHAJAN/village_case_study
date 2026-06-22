@@ -88,5 +88,5 @@ The proposed business model aims to create a sustainable and self-reliant econom
 ## Contact Information
 For more details, reach out to the project maintainer:
 
-- **Name**: Pranshu Aggarwal
-- **Email**: [pranshuchd@gmail.com](mailto:pranshuchd@gmail.com)
+- **Name**: Nikunj Mahajan
+- **Email**: [nikunjmahajan333@gmail.com](mailto:nikunjmahajan333@gmail.com)
